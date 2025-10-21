@@ -4,6 +4,8 @@ PRODUCT_COPY_FILES += \
     # Config files from the etc folder
     $(call find-copy-subdir-files,*,$(VENDOR_PATH)/system/etc,system/etc) \
     \
+    $(VENDOR_PATH)/system/etc/permissions/privapp-permissions-miuicamera.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-miuicamera.xml \
+    \
     # The files needed for the auto-config copy script
     $(VENDOR_PATH)/configs/ziyi_pro.json:system/etc/leica/ziyi_pro.json \
     $(VENDOR_PATH)/init/init.leica.rc:system/etc/init/init.leica.rc \
@@ -67,3 +69,15 @@ PRODUCT_PACKAGES += \
     libmialgoengine \
     libmicampostproc_client_vendor \
     libcamera_algoup_jni.xiaomi_vendor
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.com.google.lens.oem_camera_package=com.android.camera \
+    vendor.camera.aux.packagelist=com.android.camera \
+    persist.vendor.camera.privapp.list=com.android.camera \
+    ro.product.system.manufacturer=Xiaomi \
+    ro.product.manufacturer=Xiaomi \
+    ro.build.characteristics=default \
+    ro.control_privapp_permissions=log \
+    ro.product.mod_device=ziyi_pro_global \
+    ro.product.device=ziyi_pro \
+    ro.product.system.device=ziyi_pro
