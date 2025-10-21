@@ -1,0 +1,769 @@
+[
+    {
+        "A3": true
+    },
+    {
+        "A5": true
+    },
+    {
+        "A6": true
+    },
+    {
+        "B": "\/vendor\/etc\/camera\/lib"
+    },
+    {
+        "B3": true
+    },
+    {
+        "C": 2000
+    },
+    {
+        "C2": false
+    },
+    {
+        "C3": false
+    },
+    {
+        "D": 360
+    },
+    {
+        "D2": false
+    },
+    {
+        "D4": false
+    },
+    {
+        "D7": true
+    },
+    {
+        "D8": true
+    },
+    {
+        "E4": true
+    },
+    {
+        "E7": false
+    },
+    {
+        "E8": true
+    },
+    {
+        "F2": true
+    },
+    {
+        "F3": true
+    },
+    {
+        "F6": true
+    },
+    {
+        "F8": false
+    },
+    {
+        "G0": "default"
+    },
+    {
+        "G2": false
+    },
+    {
+        "G3": true
+    },
+    {
+        "G4": true
+    },
+    {
+        "G6": false
+    },
+    {
+        "H2": false
+    },
+    {
+        "I5": true
+    },
+    {
+        "J5": true
+    },
+    {
+        "J6": false
+    },
+    {
+        "K": 0
+    },
+    {
+        "K3": true
+    },
+    {
+        "L": true
+    },
+    {
+        "L3": true
+    },
+    {
+        "L5": true
+    },
+    {
+        "L6": false
+    },
+    {
+        "M6": false
+    },
+    {
+        "M7": false
+    },
+    {
+        "M8": false
+    },
+    {
+        "N4": true
+    },
+    {
+        "N6": false
+    },
+    {
+        "N7": false
+    },
+    {
+        "O4": false
+    },
+    {
+        "P": 20
+    },
+    {
+        "P7": false
+    },
+    {
+        "Q": 60
+    },
+    {
+        "Q2": false
+    },
+    {
+        "Q6": 24
+    },
+    {
+        "Q8": false
+    },
+    {
+        "R2": true
+    },
+    {
+        "R4": true
+    },
+    {
+        "R5": false
+    },
+    {
+        "R6": 4
+    },
+    {
+        "S2": false
+    },
+    {
+        "S3": false
+    },
+    {
+        "T4": false
+    },
+    {
+        "T7": ""
+    },
+    {
+        "V0": 2
+    },
+    {
+        "V1": 0
+    },
+    {
+        "V2": true
+    },
+    {
+        "V5": false
+    },
+    {
+        "V6": false
+    },
+    {
+        "W": "4x3"
+    },
+    {
+        "W1": true
+    },
+    {
+        "X1": false
+    },
+    {
+        "X3": true
+    },
+    {
+        "X4": true
+    },
+    {
+        "X7": true
+    },
+    {
+        "Y2": true
+    },
+    {
+        "Z": 0
+    },
+    {
+        "Z2": false
+    },
+    {
+        "Z6": 15
+    },
+    {
+        "Z8": false
+    },
+    {
+        "a2": true
+    },
+    {
+        "a3": false
+    },
+    {
+        "a7": 35
+    },
+    {
+        "adjustScreenLight": true
+    },
+    {
+        "allowCapturingHeicImage": false
+    },
+    {
+        "b4": true
+    },
+    {
+        "b7": 2
+    },
+    {
+        "c3": true
+    },
+    {
+        "c4": true
+    },
+    {
+        "c5": false
+    },
+    {
+        "c6": false
+    },
+    {
+        "c8": false
+    },
+    {
+        "camera.debug.mivi2": false
+    },
+    {
+        "cvWatermark": [
+            {
+                "key": 1,
+                "value": [
+                    "REDMI",
+                    "NOTE 12 PRO 5G"
+                ]
+            }
+        ]
+    },
+    {
+        "d": "1"
+    },
+    {
+        "d3": true
+    },
+    {
+        "d7": 1
+    },
+    {
+        "defaultLensDirtyTip": true
+    },
+    {
+        "e2": true
+    },
+    {
+        "e3": false
+    },
+    {
+        "e4": true
+    },
+    {
+        "enable1080p60Eis": false
+    },
+    {
+        "enableMultiframeInManualMode": "notelemfnr:1;telesr:1"
+    },
+    {
+        "enableOutputRawInManualMode": true
+    },
+    {
+        "g3": true
+    },
+    {
+        "g5": true
+    },
+    {
+        "getAecLuxHeightLight": 330
+    },
+    {
+        "getAecLuxLastLight": 390
+    },
+    {
+        "getCustomWatermarkVersion": "v2"
+    },
+    {
+        "getDualVideoCameraSelectConfig": "1:wide:1.0;2:wide:1.0;5:wide:1.0;1:front:1.0"
+    },
+    {
+        "getFrontMaxFPS": 120
+    },
+    {
+        "getHighAccuracyTolerance": 0
+    },
+    {
+        "getMaxRemoteBufferSize": 10
+    },
+    {
+        "getParallelRequestRestrictNum": 4
+    },
+    {
+        "getRearMaxFPS": 960
+    },
+    {
+        "getRearUltraPixelPhotography": "4:8192x6144"
+    },
+    {
+        "getSATCameraId": 60
+    },
+    {
+        "getSRFrameNumber": 8
+    },
+    {
+        "getSupportDepurpleLens": "macro:wide:ultra_wide"
+    },
+    {
+        "getSupportedButtonOuterZooms": "capture:0.6:1.0:2.0;supernight:0.6:1.0:2.0;video:0.6:1.0:2.0"
+    },
+    {
+        "getSupportedOpticalZoomRatioCombination": 3
+    },
+    {
+        "getSupportedZoom": "capture_inner:0.6:1:2:3.2:5:10;capture_ruler:4:10:10:10:5"
+    },
+    {
+        "getVideoSATCameraId": 62
+    },
+    {
+        "h": false
+    },
+    {
+        "h3": false
+    },
+    {
+        "h6": false
+    },
+    {
+        "is4K30FpsEISSupported": true
+    },
+    {
+        "isDisableDepurpleInSuperNight": true
+    },
+    {
+        "isHALEnableFrontMFNR": true
+    },
+    {
+        "isLegacyMfnrDevice": true
+    },
+    {
+        "isMfnrAlgoUpQuickShotEnabled": true
+    },
+    {
+        "isSubThreadFrameListener": true
+    },
+    {
+        "isSuperMacro": true
+    },
+    {
+        "isSupportAbortCaptures": true
+    },
+    {
+        "isSupportBeautyMode": 4
+    },
+    {
+        "isSupportCrop": true
+    },
+    {
+        "isSupportDepurpleInHdr": true
+    },
+    {
+        "isSupportFlush": false
+    },
+    {
+        "isSupportHighQualityQuickShot": true
+    },
+    {
+        "isSupportJpegQuality": true
+    },
+    {
+        "isSupportLensDirtyDetected": true
+    },
+    {
+        "isSupportLiveShot": true
+    },
+    {
+        "isSupportMTKHDRReprocess": true
+    },
+    {
+        "isSupportMTKISPHeif": true
+    },
+    {
+        "isSupportMTKPortraitMultiFeatureMode": true
+    },
+    {
+        "isSupportMacroMode": true
+    },
+    {
+        "isSupportMfnrSat": true
+    },
+    {
+        "isSupportNormalWideLDC": false
+    },
+    {
+        "isSupportOCR": true
+    },
+    {
+        "isSupportOpticalZoom": false
+    },
+    {
+        "isSupportPixelModelSwitchCameraId": true
+    },
+    {
+        "isSupportPixelModelZoom": true
+    },
+    {
+        "isSupportPresentationDisplay": false
+    },
+    {
+        "isSupportRenderEngineV2": true
+    },
+    {
+        "isSupportSatZoomSpline": true
+    },
+    {
+        "isSupportStartupAlphaMask": true
+    },
+    {
+        "isSupportSuperEIS": true
+    },
+    {
+        "isSupportSuperNightIncaptureMode": true
+    },
+    {
+        "isSupportSuperResolution": true
+    },
+    {
+        "isSupportUltraTele": false
+    },
+    {
+        "isSupportUltraWide": true
+    },
+    {
+        "isSupportUltraWideLDC": true
+    },
+    {
+        "isSupportVideoTag": true
+    },
+    {
+        "isSupportVideoToTele": false
+    },
+    {
+        "isSupportedMovieSolid": true
+    },
+    {
+        "isSupportedPeakingMF": true
+    },
+    {
+        "isSupportedSuperNightScene": true
+    },
+    {
+        "isSupportedVideoQuality4kUHD": true
+    },
+    {
+        "isSurfaceSizeLimited": false
+    },
+    {
+        "isZoomAnimationEnabled": true
+    },
+    {
+        "j2": true
+    },
+    {
+        "j3": false
+    },
+    {
+        "k": true
+    },
+    {
+        "k1": 500
+    },
+    {
+        "k7": 1
+    },
+    {
+        "l2": false
+    },
+    {
+        "l5": true
+    },
+    {
+        "l7": 12
+    },
+    {
+        "l8": false
+    },
+    {
+        "m2": false
+    },
+    {
+        "m3": true
+    },
+    {
+        "m4": false
+    },
+    {
+        "m7": 1
+    },
+    {
+        "mode_AIWatermark": true
+    },
+    {
+        "mode_Cinemaster": true
+    },
+    {
+        "mode_Clone": true
+    },
+    {
+        "mode_DualDeviceRecording": false
+    },
+    {
+        "mode_Fastshot": false
+    },
+    {
+        "mode_IDCard": true
+    },
+    {
+        "mode_LongExposure": "true 4000x3000"
+    },
+    {
+        "mode_Microfilm": true
+    },
+    {
+        "mode_MulticamVideo": true
+    },
+    {
+        "mode_Panorama": true
+    },
+    {
+        "mode_PocketMirror": false
+    },
+    {
+        "mode_ProVideo": true
+    },
+    {
+        "mode_ShortVideo": 2
+    },
+    {
+        "mode_Supermoon": true
+    },
+    {
+        "mode_Timelapse": true
+    },
+    {
+        "mode_VLOG": true
+    },
+    {
+        "n4": false
+    },
+    {
+        "n7": true
+    },
+    {
+        "o2": false
+    },
+    {
+        "o4": false
+    },
+    {
+        "o7": true
+    },
+    {
+        "p6": true
+    },
+    {
+        "p8": true
+    },
+    {
+        "q3": false
+    },
+    {
+        "q5": true
+    },
+    {
+        "r2": false
+    },
+    {
+        "r3": true
+    },
+    {
+        "r7": false
+    },
+    {
+        "reducePreviewFlag": 12
+    },
+    {
+        "s2": false
+    },
+    {
+        "s5": true
+    },
+    {
+        "supportAsd": true
+    },
+    {
+        "supportFrontCameraWaterMark": true
+    },
+    {
+        "supportFrontMirror": true
+    },
+    {
+        "supportFrontSuperNight": true
+    },
+    {
+        "supportHighResolutionOutputSizes": true
+    },
+    {
+        "supportMfHdrQuickShot": true
+    },
+    {
+        "supportMfnrAlgoUpQuickShotFeatures": "macro:back_bokeh:front_bokeh"
+    },
+    {
+        "supportMoreFrameCaptureLockAFAE": true
+    },
+    {
+        "supportPictureWaterMark": true
+    },
+    {
+        "supportProPhotoSRAlgoUp": false
+    },
+    {
+        "supportStandaloneMacroCamera": true
+    },
+    {
+        "supportStandaloneMacroInManual": false
+    },
+    {
+        "supportSuperNightLock3A": false
+    },
+    {
+        "supportSwMfnr": false
+    },
+    {
+        "supportThunderShutterAnim": false
+    },
+    {
+        "supportTimerBurst": true
+    },
+    {
+        "supportVideoSAT": true
+    },
+    {
+        "supportZoomMfnr": true
+    },
+    {
+        "supportZslShutter": true
+    },
+    {
+        "supportedTeleMacroCamera": false
+    },
+    {
+        "t": false
+    },
+    {
+        "t2": true
+    },
+    {
+        "t5": true
+    },
+    {
+        "t8": false
+    },
+    {
+        "u2": false
+    },
+    {
+        "u3": false
+    },
+    {
+        "u4": false
+    },
+    {
+        "u5": false
+    },
+    {
+        "u8": true
+    },
+    {
+        "useLegacyFlashMode": true
+    },
+    {
+        "v0": true
+    },
+    {
+        "v1": 0
+    },
+    {
+        "v3": true
+    },
+    {
+        "v5": false
+    },
+    {
+        "v7": 11
+    },
+    {
+        "v8": false
+    },
+    {
+        "w1": 2
+    },
+    {
+        "w3": false
+    },
+    {
+        "w4": false
+    },
+    {
+        "w5": false
+    },
+    {
+        "w6": true
+    },
+    {
+        "w8": true
+    },
+    {
+        "x3": true
+    },
+    {
+        "y3": true
+    },
+    {
+        "y4": true
+    },
+    {
+        "y5": true
+    },
+    {
+        "z5": true
+    }
+]

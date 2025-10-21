@@ -1,0 +1,276 @@
+cc_prebuilt_library_shared {
+    name: "libarcsoft_single_chart_calibration",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libarcsoft_single_chart_calibration.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libijksdl",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libijksdl.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libijkplayer",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libijkplayer.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libDocumentProcess",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libDocumentProcess.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libc++_shared",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libc++_shared.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libgui_shim_miuicamera_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libgui_shim_miuicamera.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libsnpe_dsp_domains_v2",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libsnpe_dsp_domains_v2.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libsnpe_dsp_skel",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libsnpe_dsp_skel.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libsymphony-cpu",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libsymphony-cpu.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libbarhopper_v3",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libbarhopper_v3.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libAIPOSE",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libAIPOSE.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libyuv_leica_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libyuv.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_mianode_jni.xiaomi_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libcamera_mianode_jni.xiaomi.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libYuvWatermark",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libYuvWatermark.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libsnpe_dsp_v66_domains_v2_skel",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libsnpe_dsp_v66_domains_v2_skel.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libsnpe_dsp_v65_domains_v2_skel",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libsnpe_dsp_v65_domains_v2_skel.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libion",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libion.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libijkffmpeg",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libijkffmpeg.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmicampostproc_client_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libmicampostproc_client.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_algoup_jni.xiaomi_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libcamera_algoup_jni.xiaomi.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_yuv_jni",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libcamera_yuv_jni.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmiuiblursdk_leica_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libmiuiblursdk.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libc++",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libc++.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libjpeg",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiCameraLeica/lib/arm64/libjpeg.so"],
+    strip: { all: true, },
+}
+
+// --- Libraries from system/priv-app/MiuiExtraPhoto/lib/arm64 ---
+cc_prebuilt_library_shared {
+    name: "libmotion_photo_c++_shared",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libmotion_photo_c++_shared.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libxcrash_dumper",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libxcrash_dumper.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "librefocus_mibokeh",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/librefocus_mibokeh.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libselection",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libselection.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "librefocus",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/librefocus.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libxcrash",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libxcrash.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libyuv_extra_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libyuv.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmotion_photo",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libmotion_photo.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libwa_refocus_extraphoto",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libwa_refocus_extraphoto.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmiuiblursdk_extra_app",
+    proprietary: true,
+    srcs: ["system/priv-app/MiuiExtraPhoto/lib/arm64/libmiuiblursdk.so"],
+    strip: { all: true, },
+}
+
+// --- Libraries from system/lib64 ---
+cc_prebuilt_library_shared {
+    name: "libcamera_ispinterface_jni.xiaomi",
+    soc_specific: true,
+    srcs: ["system/lib64/libcamera_ispinterface_jni.xiaomi.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libgui_shim_miuicamera",
+    soc_specific: true,
+    srcs: ["system/lib64/libgui_shim_miuicamera.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_mianode_jni.xiaomi_system",
+    soc_specific: true,
+    srcs: ["system/lib64/libcamera_mianode_jni.xiaomi.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmicampostproc_client",
+    soc_specific: true,
+    srcs: ["system/lib64/libmicampostproc_client.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_algoup_jni.xiaomi_system",
+    soc_specific: true,
+    srcs: ["system/lib64/libcamera_algoup_jni.xiaomi.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmegvii_bokeh_jni",
+    soc_specific: true,
+    srcs: ["system/lib64/libmegvii_bokeh_jni.so"],
+    strip: { all: true, },
+}
+
+// --- Libraries from system/vendor/lib64 ---
+cc_prebuilt_library_shared {
+    name: "libmorpho_Lowlight",
+    vendor: true,
+    srcs: ["system/vendor/lib64/libmorpho_Lowlight.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_mianode_jni.xiaomi_vendor",
+    vendor: true,
+    srcs: ["system/vendor/lib64/libcamera_mianode_jni.xiaomi.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmialgoengine",
+    vendor: true,
+    srcs: ["system/vendor/lib64/libmialgoengine.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libmicampostproc_client_vendor",
+    vendor: true,
+    srcs: ["system/vendor/lib64/libmicampostproc_client.so"],
+    strip: { all: true, },
+}
+cc_prebuilt_library_shared {
+    name: "libcamera_algoup_jni.xiaomi_vendor",
+    vendor: true,
+    srcs: ["system/vendor/lib64/libcamera_algoup_jni.xiaomi.so"],
+    strip: { all: true, },
+}
