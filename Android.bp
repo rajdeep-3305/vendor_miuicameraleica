@@ -1,0 +1,29 @@
+android_app_import {
+    name: "MiuiCameraLeica",
+    apk: "system/priv-app/MiuiCameraLeica/MiuiCameraLeica.apk",
+    certificate: "platform",
+    privileged: true,
+    dex_preopt: {
+        enabled: false,
+    },
+}
+
+android_app_import {
+    name: "MiuiExtraPhoto",
+    apk: "system/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk",
+    certificate: "platform",
+    privileged: true,
+    dex_preopt: {
+        enabled: false,
+    },
+}
+
+android_app_import {
+    name: "MiuiGalleryEditor",
+    apk: "system/priv-app/MiuiGalleryEditor/MiuiGalleryEditor.apk",
+    certificate: "platform",
+    privileged: true,
+    dex_preopt: {
+        enabled: false,
+    },
+}
