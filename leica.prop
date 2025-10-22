@@ -1,0 +1,10 @@
+ro.com.google.lens.oem_camera_package=com.android.camera
+vendor.camera.aux.packagelist=com.android.camera
+persist.vendor.camera.privapp.list=com.android.camera
+ro.product.system.manufacturer=Xiaomi
+ro.product.manufacturer=Xiaomi
+ro.build.characteristics=default
+ro.control_privapp_permissions=log
+ro.product.mod_device=ziyi_pro_global
+ro.product.device=ziyi_pro
+ro.product.system.device=ziyi_pro
