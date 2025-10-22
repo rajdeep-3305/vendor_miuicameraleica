@@ -96,3 +96,11 @@ cc_prebuilt_library_shared { name: "libcamera_ispinterface_jni.xiaomi", soc_spec
 cc_prebuilt_library_shared { name: "libgui_shim_miuicamera", soc_specific: true, srcs: ["system/lib64/libgui_shim_miuicamera.so"], strip: { all: true } }
 cc_prebuilt_library_shared { name: "libmegvii_bokeh_jni", soc_specific: true, srcs: ["system/lib64/libmegvii_bokeh_jni.so"], strip: { all: true } }
 
+cc_prebuilt_library_shared {
+    name: "libmorpho_Lowlight",
+    vendor: true,
+    srcs: ["vendor/lib64/libmorpho_Lowlight.so"],
+    strip: {
+        all: true,
+    },
+}
