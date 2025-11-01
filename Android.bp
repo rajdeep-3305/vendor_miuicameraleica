@@ -41,14 +41,14 @@ prebuilt_etc { name: "miuicamera-hiddenapi-package-whitelist.xml", src: "system/
 
 
 // --- Prebuilt Auto-Config Scripts and Files ---
-prebuilt_etc { name: "init.leica.rc", src: "init/init.leica.rc", sub_dir: "init/hw" }
+prebuilt_etc { name: "init.leica.rc", src: "init/init.leica.rc", sub_dir: "init/hw", vendor: true, }
 prebuilt_etc { name: "ziyi_pro.json", src: "configs/ziyi_pro.json", sub_dir: "leica" }
 
 // Use sh_binary for shell scripts to ensure they are installed to /system/bin
 sh_binary {
     name: "leica_config_copy.sh",
     src: "bin/leica_config_copy.sh",
-    system_ext_specific: true,
+    vendor: true,
 }
 
 

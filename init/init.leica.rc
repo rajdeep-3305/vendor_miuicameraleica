@@ -1,4 +1,4 @@
-service copy_leica_config /system/bin/leica_config_copy.sh
+service copy_leica_config /vendor/bin/leica_config_copy.sh
     class late_start
     user root
     group root
