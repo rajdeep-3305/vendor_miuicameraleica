@@ -1,7 +1,6 @@
-# Service to copy the Leica camera config on first boot
 service copy_leica_config /system/bin/leica_config_copy.sh
     class main
     user root
     group root
     oneshot
-    seclabel u:r:su:s0
+    seclabel u:r:init:s0
