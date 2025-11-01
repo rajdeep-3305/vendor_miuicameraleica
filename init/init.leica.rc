@@ -1,6 +1,10 @@
 service copy_leica_config /system/bin/leica_config_copy.sh
-    class main
+    class late_start
     user root
     group root
     oneshot
     seclabel u:r:init:s0
+    disabled
+
+on property:sys.boot_completed=1
+    start copy_leica_config
