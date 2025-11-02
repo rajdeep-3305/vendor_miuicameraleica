@@ -11,7 +11,6 @@ PRODUCT_PACKAGES += \
     miuicamera-hiddenapi-package-whitelist.xml \
     init.leica.rc \
     ziyi_pro.json \
-    leica_config_copy.sh \
     libarcsoft_single_chart_calibration \
     libijksdl \
     libijkplayer \
