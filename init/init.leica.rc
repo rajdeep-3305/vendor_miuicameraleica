@@ -1,10 +1,14 @@
-on post-fs-data
-    mkdir /data/media/0/Download/XiaomiCamera 0775 media_rw media_rw
+on property:sys.boot_completed=1
+
+    setprop ro.product.device ziyi_pro
+    setprop ro.product.system.device ziyi_pro
+    setprop ro.product.mod_device ziyi_pro_global
+
+    mkdir /data/media/0/Download/XiaomiCamera 0777 media_rw media_rw
 
     copy /system/etc/leica/ziyi_pro.json /data/media/0/Download/XiaomiCamera/ziyi_pro.json
 
     chown media_rw media_rw /data/media/0/Download/XiaomiCamera/ziyi_pro.json
-
     chmod 0664 /data/media/0/Download/XiaomiCamera/ziyi_pro.json
 
     restorecon -R /data/media/0/Download/XiaomiCamera

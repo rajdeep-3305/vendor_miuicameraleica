@@ -5,3 +5,4 @@ ro.product.system.manufacturer=Xiaomi
 ro.product.manufacturer=Xiaomi
 ro.build.characteristics=default
 ro.control_privapp_permissions=log
+

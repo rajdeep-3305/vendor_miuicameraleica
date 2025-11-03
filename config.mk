@@ -60,6 +60,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.characteristics=default \
     ro.control_privapp_permissions=log \
     ro.product.mod_device=ziyi_pro_global \
-#    ro.product.device=ziyi_pro \
-#   ro.product.system.device=ziyi_pro
 
